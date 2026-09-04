@@ -7,7 +7,7 @@
 // @grant        GM_xmlhttpRequest
 // @updateURL    https://githubusercontent.com
 // @downloadURL  https://githubusercontent.com
-// ==UserScript==
+// ==/UserScript==
 
 (function() {
     "use strict";
